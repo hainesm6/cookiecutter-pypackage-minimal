@@ -1,11 +1,11 @@
 {
-    "author_name": "Louis Taylor",
-    "author_email": "louis@kragniz.eu",
+    "author_name": "Matthew Haines",
+    "author_email": "hainesm6@gmail.com",
 
     "package_name": "cookiecutter_pypackage_minimal",
     "package_version": "0.1.0",
     "package_description": "An opinionated, minimal cookiecutter template for Python packages",
-    "package_url": "https://github.com/borntyping/cookiecutter-pypackage-minimal",
+    "package_url": "https://github.com/hainesm6/my_repo",
     
     "readme_pypi_badge": true,
     "readme_travis_badge": true,
