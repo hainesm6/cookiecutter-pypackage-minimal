@@ -1,0 +1,4 @@
+language: python
+python:
+  - "{{ cookiecutter.python_version }}"
+script: pytest
