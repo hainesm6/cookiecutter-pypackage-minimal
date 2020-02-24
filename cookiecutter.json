@@ -7,5 +7,6 @@
     "package_description": "An opinionated, minimal cookiecutter template for Python packages",
     "package_url": "https://github.com/hainesm6/my_repo",
     
-    "readme_travis_url": "https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal"
+    "readme_travis_url": "https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal",
+    "python_version": "3.8"
 }
