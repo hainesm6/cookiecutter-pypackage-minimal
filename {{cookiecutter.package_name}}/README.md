@@ -34,8 +34,7 @@ pip install {{ cookiecutter.package_name }}
 
 This project is licensed under the MIT License - see the ``LICENSE`` file for details
 
-
-[pypi_badge]: 
-[pypi_url]: 
+[pypi_badge]: https://img.shields.io/pypi/v/{{ cookiecutter.package_name }}.svg
+[pypi_url]: https://pypi.python.org/pypi/{{ cookiecutter.package_name }}
 [travis_badge]: {{ cookiecutter.readme_travis_url }}.svg
 [travis_url]: {{ cookiecutter.readme_travis_url }}
