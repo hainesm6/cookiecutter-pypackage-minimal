@@ -25,7 +25,7 @@ setup(
     description="{{ cookiecutter.package_description }}",
     long_description=read("README.rst"),
 
-    packages=find_packages(exclude=('tests',)),
+    packages=find_packages(exclude=('tests')),
 
     install_requires=[],
 
@@ -33,6 +33,7 @@ setup(
         'Development Status :: 2 - Pre-Alpha',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
 )
